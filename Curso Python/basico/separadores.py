@@ -7,3 +7,5 @@ print("text \r bbb")
 print("Luiza \" munis")
 print('Luiza "munis"')
  
+a=int(1.55)
+print(a)
